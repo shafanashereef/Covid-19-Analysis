@@ -47,12 +47,6 @@ This project analyzes the early global spread of COVID-19 using the European Cen
 - Make **data-driven policy decisions** based on case-death trends and lag effects.  
 
 
-## Usage
-1. Load the dataset (`ECDC_COVID19.csv`) into Python, R, or any data analysis tool.  
-2. Perform exploratory data analysis (EDA) using temporal and country-wise aggregations.  
-3. Generate visualizations for cases, deaths, per-capita metrics, and correlation studies.  
-
-
 ## Conclusion
 The early COVID-19 pandemic escalated rapidly from minimal cases in January 2020 to a global crisis by April 2020. The impact varied widely across countries, with the U.S. and Europe hardest hit. Small-population territories show high per-capita rates, highlighting the importance of population-aware analysis. Strong correlations between cases and deaths underscore the value of early interventions and data-driven policy decisions. Preparedness, timely response, and continuous monitoring remain crucial for managing ongoing or future pandemics.
 
